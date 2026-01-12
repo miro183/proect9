@@ -1,0 +1,157 @@
+.oneBody {
+    background: black;
+}
+
+
+.shapka {
+    margin-right: 10px;
+    background-size: cover;
+    height: 100px;
+    border: solid 1px grey;
+    border-radius: 40px;
+    background: white;
+}
+
+.sil {
+    text-decoration: none;
+    padding: 5px;
+    text-align: center;
+    color: red;
+}
+
+.oneP {
+    padding: 10px;
+    margin-left: 15%;
+    color: red;
+    width: 1000px;
+    
+}
+
+h4 {
+    text-align: center;
+    background: brown;
+    padding: 10px;
+    border-radius: 0px 50px 0px 50px;
+    width: 50%;
+}
+
+h3 {
+    background: red;
+    text-align: center;
+    padding: 10px;
+}
+
+.otz {
+    background: orange;
+    width: 50%;
+    margin-top: 10px;
+    padding: 5px;
+    border-radius: 0px 40px 40px 40px;
+    border: dashed 2px pink;
+}
+
+.int, .int2 {
+    height: 40px;
+    border-radius: 40px;
+    border: none;
+}
+
+.inp {
+    grid-area: 'inp1'
+}
+
+.inp2 {
+   border-radius: 50px;
+   background: white;
+   color: red;
+   text-align: center;
+   margin-left:30%;
+   
+       
+}
+
+.plus {
+    grid-area: 'plus'
+}
+
+.minus {
+    grid-area: 'minus'
+}
+
+.sub {
+    grid-area: 'sub'
+}
+
+.diiv {
+    grid-area: 'diiv'
+}
+
+.oneKon {
+    display: grid;
+    margin: 5px;
+    grid-gap: 5px;
+}
+
+
+
+
+
+.twoKon {
+    display: grid;
+    grid-gap: 5px;
+    margin: 5px;
+}
+
+
+
+
+
+
+.butt {
+    background: green;
+    color: white;
+    text-align: center;
+    
+    
+}
+
+.butt2 {
+    background: red;
+}
+
+.butt2, .butt3, .butt {
+    height: 40px;
+    border-radius: 40px;
+    border: white 2px dashed;
+}
+
+.butt3 {
+    background: lightblue;
+    grid-area: 'vich';
+}
+
+
+.rr{
+    text-align: center;
+    color: red;
+
+}
+
+
+.ress {
+    background: white;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 40px;
+    padding: 7px;
+}
+
+.udal {
+    padding: 5px;
+    background: aqua;
+    border: lightblue solid 2px;
+    color: red;
+    border-radius: 40px;
+    width: 50%;
+    margin-left: 100px;
+}
