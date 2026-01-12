@@ -2,7 +2,7 @@
 
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <link rel="stylesheet" href="/css/site.css" />
+    <link rel="stylesheet" href="site.css" />
     <meta charset="utf-8" />
     <title>Главная</title>
 </head>
