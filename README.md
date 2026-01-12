@@ -9,9 +9,9 @@
 <body class='oneBody'>
     <header>
         <div class="shapka">
-            <div class='sil'> <a href='/str2.html'> Меню </a> </div>
-            <div class='sil'> <a href='/str3.html'> Отзывы </a> </div>
-            <div class='sil'> <a href='/str4.html'> Калькулятор </a> </div>
+            <div class='sil'> <a href='str2.html'> Меню </a> </div>
+            <div class='sil'> <a href='str3.html'> Отзывы </a> </div>
+            <div class='sil'> <a href='str4.html'> Калькулятор </a> </div>
         </div>
         <p class='oneP'>
             Добро пожаловать в наш ресторан под названием Bog Ber! Здесь вы найдете множество всего! От вкусной еды до изысканых декоров. 
